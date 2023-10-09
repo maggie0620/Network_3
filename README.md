@@ -12,5 +12,7 @@ a. Edge complementation
 b. Join
 
 c. Union
+
 d. Intersection
+
 e. Difference: (DFS - BFS) and (BFS - DFS)
